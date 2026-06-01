@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/theworld/gtm-portfolio/static/css/main.890004bd.css",
+    "main.js": "/theworld/gtm-portfolio/static/js/main.034d768d.js",
+    "static/media/akshath.jpg": "/theworld/gtm-portfolio/static/media/akshath.aadee198c5c3bc3b3c66.jpg",
+    "index.html": "/theworld/gtm-portfolio/index.html",
+    "main.890004bd.css.map": "/theworld/gtm-portfolio/static/css/main.890004bd.css.map",
+    "main.034d768d.js.map": "/theworld/gtm-portfolio/static/js/main.034d768d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.890004bd.css",
+    "static/js/main.034d768d.js"
+  ]
+}
